@@ -1,2 +1,8 @@
-## 1.0-SNAPSHOT
-*   Created template for new repositories.
+# Realese notes
+
+## 0.1.0-SNAPSHOT
+* added stub telegram bot
+* added SpringBoot skeleton project
+
+
+
